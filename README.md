@@ -1,4 +1,4 @@
-### Hey there, I'm [Alok](https://alok-karn.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=alok-karn&label=Views)
+### Hey there, I'm [Alok](https://github.com/alok-karn)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=alok-karn&label=Views)
 
 
 
