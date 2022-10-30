@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently a student ...
-- 🌱 I’m currently learning Python and Web-Development
+- 🌱 I’m currently learning Python and MERN-Stack
 - 💬 Ask me about ...
 - 📫 How to reach me: [Click here](https://www.facebook.com/alok.karn.399/)
 - 😄 Pronouns: He/Him
