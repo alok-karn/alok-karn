@@ -16,6 +16,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - ⚡ Fun fact: I like to draw and Play Guitar ...
 -  <b> Google Dev profile:</b> https://g.dev/mr-miracle369 <img src="https://zellusmarketing.com/wp-content/uploads/2021/02/Google-Gif.gif" alt="Google logo GIF" width="70"/>
 
+<h2 align="left">𝔸𝕓𝕠𝕦𝕥 𝕄𝕖! </h2>
+
+Hello, I am `Alok Karn`. I am a Front End Developer and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces.
+
+
+
+
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ᴛʜᴀᴛ ɪ ᴋɴᴏᴡ:</h2>
 <p>
 <img align="left" alt="Android " width="45px" src="https://static.cdnlogo.com/logos/a/15/android.svg" style="padding-right:10px;" />
