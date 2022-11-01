@@ -1,4 +1,4 @@
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=alok-karn&label=Views)
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=alok-karn&label=Views)
 
 
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">𝐀𝐥𝐨𝐤 𝐊𝐚𝐫𝐧! </a> <img
@@ -43,7 +43,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-<h2> ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴ: 🎓</h2><h4>
+<h2 align="left"> ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴ: 🎓</h2><h4>
 <a href="https://www.freecodecamp.org/certification/alok69/javascript-algorithms-and-data-structures" target="blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="120"></a> &nbsp;ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀʟɢᴏʀɪᴛʜᴍꜱ ᴀɴᴅ ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇꜱ</h4>
 <h4>
 <a href="https://www.freecodecamp.org/certification/alok69/responsive-web-design" target="blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="120"></a> &nbsp;ʀᴇꜱᴘᴏɴꜱɪᴠᴇ ᴡᴇʙ ᴅᴇꜱɪɢɴ</h4>
