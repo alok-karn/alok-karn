@@ -45,14 +45,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 
 <h2>Contace Me At! 📥 </h2>
-<a href="https://www.facebook.com/alok.karn.399/" target="_blank"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> <br />
-<a href="mailto:alokkyasth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br />
+<a href="https://www.facebook.com/alok.karn.399/" target="blank"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> <br />
+<a href="mailto:alokkyasth@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br />
 
 <h2> Follow Me On! </h2>
-<a href="https://twitter.com/alok98420" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><br />
-<a href="https://www.instagram.com/aaalok_369.exe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br />
-<a href="https://www.snapchat.com/add/alok_karn19" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a><br />
-<a href="https://www.linkedin.com/in/alok-karn-8736a221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><br />
+<a href="https://twitter.com/alok98420" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><br />
+<a href="https://www.instagram.com/aaalok_369.exe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br />
+<a href="https://www.snapchat.com/add/alok_karn19" target="blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a><br />
+<a href="https://www.linkedin.com/in/alok-karn-8736a221b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><br />
 
 
 	
