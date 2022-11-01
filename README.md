@@ -1,6 +1,8 @@
-### Hey there, I'm [Alok](https://github.com/alok-karn)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=alok-karn&label=Views)
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=alok-karn&label=Views)
 
 
+<h1 align="center">Hi there, I'm <a href="https://github.com/alok-karn" target="_blank">Alok Karn! </a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1><br />
 
 ## I'm a Introvert, Programmer👨‍💻!!!
 ## Love Mathematics ...🐺🐺
@@ -39,8 +41,18 @@
 <img align="left" alt="upwork" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1024px-Upwork-logo.svg.png" style="padding-right:10px;" /> 
  </p>
  
- 
-
-
 <br />
 <br />
+
+<h2>Contace Me At! 📥 </h2>
+<a href="https://www.facebook.com/alok.karn.399/" target="_blank"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> <br />
+<a href="mailto:alokkyasth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br />
+
+<h2> Follow Me On! </h2>
+<a href="https://twitter.com/alok98420" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><br />
+<a href="https://www.instagram.com/aaalok_369.exe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br />
+<a href="https://www.snapchat.com/add/alok_karn19" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a><br />
+<a href="https://www.linkedin.com/in/alok-karn-8736a221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><br />
+
+
+	
