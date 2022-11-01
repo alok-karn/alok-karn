@@ -13,7 +13,7 @@
 - 📫 How to reach me: [Click here](https://www.facebook.com/alok.karn.399/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to draw and Play Guitar ...
-- <img src="https://cdn.dribbble.com/users/584024/screenshots/3076875/300d.gif" alt="Google logo GIF" width="80"/> <b> Google Dev profile:</b> https://g.dev/mr-miracle369
+-  <b> Google Dev profile:</b> https://g.dev/mr-miracle369 <img src="https://zellusmarketing.com/wp-content/uploads/2021/02/Google-Gif.gif" alt="Google logo GIF" width="70"/>
 
 <h3 align="left">Languages and tools that I know:</h3>
 <p>
