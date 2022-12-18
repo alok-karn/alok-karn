@@ -1,4 +1,4 @@
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=alok-karn&label=Views)
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;[![](https://visitcount.itsvg.in/api?id=alok-karn&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">𝐀𝐥𝐨𝐤 𝐊𝐚𝐫𝐧! </a> <img
@@ -20,40 +20,23 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Hello, I am `Alok Karn`. I am a Front End Developer and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces.
 
+## 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌:
+![](https://github-readme-stats.vercel.app/api?username=alok-karn&theme=dark&hide_border=false&include_all_commits=false&count_private=true) &nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=alok-karn&theme=dark&hide_border=false)<br/> <p align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-karn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</p>
 
 
-
-<h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ᴛʜᴀᴛ ɪ ᴋɴᴏᴡ:</h2>
-<p>
-<img align="left" alt="Android " width="45px" src="https://static.cdnlogo.com/logos/a/15/android.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Android-phones " width="30px" src="https://img.icons8.com/cute-clipart/344/android.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Ubuntu " width="26px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" style="padding-right:10px;" />
-  <img align="left" alt="Bash " width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/512px-Bash_Logo_black_and_white_icon_only.svg.png?20180723054438" style="padding-right:10px;" />
-<img align="left" alt="Kali linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1280px-Kali_Linux_2.0_wordmark.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Ms Word " width="30px" src="https://img.icons8.com/color-glass/344/ms-word.png" style="padding-right:10px;" />
-<img align="left" alt="Ms Excell " width="30px" src="https://img.icons8.com/color-glass/344/ms-excel.png" style="padding-right:10px;" />
-<img align="left" alt="Ms Powerpoint " width="30px" src="https://img.icons8.com/color-glass/344/ms-powerpoint.png" style="padding-right:10px;" />  
-<img align="left" alt="illustrator" width="30px" src="https://img.icons8.com/color/344/adobe-illustrator--v1.png" style="padding-right:10px;" /> 
-<img align="left" alt="photoshop" width="30px" src="https://img.icons8.com/fluency/344/adobe-photoshop.png" style="padding-right:10px;" /> 
-<img align="left" alt="upwork" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1024px-Upwork-logo.svg.png" style="padding-right:10px;" /> 
- </p>
- 
-<br />
-<br />
+## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ᴛʜᴀᴛ ɪ ᴋɴᴏᴡ:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <h2 align="left"> ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴ: 🎓</h2><h4>
 <a href="https://www.freecodecamp.org/certification/alok69/javascript-algorithms-and-data-structures" target="blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="120"></a> &nbsp;ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀʟɢᴏʀɪᴛʜᴍꜱ ᴀɴᴅ ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇꜱ</h4>
 <h4>
 <a href="https://www.freecodecamp.org/certification/alok69/responsive-web-design" target="blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="120"></a> &nbsp;ʀᴇꜱᴘᴏɴꜱɪᴠᴇ ᴡᴇʙ ᴅᴇꜱɪɢɴ</h4>
+
+## 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇹‌🇷‌🇴‌🇵‌🇭‌🇮‌🇪‌🇸‌ 🏆
+![](https://github-profile-trophy.vercel.app/?username=alok-karn&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 <h2>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴀᴛ! 📥 </h2>
 <a href="https://www.facebook.com/alok.karn.399/" target="blank"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> <br />
