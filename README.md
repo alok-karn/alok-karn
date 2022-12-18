@@ -8,9 +8,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 𝕃𝕠𝕧𝕖𝕤 𝕄𝕒𝕥𝕙𝕖𝕞𝕒𝕥𝕚𝕔𝕤 ...🐺🐺 <br /><br />
  𝕃𝕠𝕧𝕖𝕤 𝔻𝕖𝕤𝕚𝕘𝕟𝕚𝕟𝕘 ... 🎨🎨 </h2>
 
-- 🔭 I’m currently a student ...
-- 🌱 I’m currently learning Python and MERN-Stack ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on `My Designer Portfolio` ...
+- 🌱 I’m currently learning `MERN Stack` ...
+- 💬 Ask me about `Technology, Gadgets and many more` ...
 - 📫 How to reach me: [Click here](https://www.facebook.com/alok.karn.399/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to draw and Play Guitar ...
@@ -22,9 +22,9 @@ Hello, I am `Alok Karn`. I am a Front End Developer and UI/UX designer with a pa
 
 ## 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌:
 ![](https://github-readme-stats.vercel.app/api?username=alok-karn&theme=dark&hide_border=false&include_all_commits=false&count_private=true) &nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=alok-karn&theme=dark&hide_border=false)<br/> <p align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=alok-karn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-karn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</p>
+
 
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ᴛʜᴀᴛ ɪ ᴋɴᴏᴡ:
