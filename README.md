@@ -22,9 +22,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 Hello, I am `Alok Karn`. I am a Front End Developer and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces.
 
 ## 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌:
-![](https://github-readme-stats.vercel.app/api?username=alok-karn&theme=dark&hide_border=false&include_all_commits=false&count_private=true) &nbsp;
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alok-karn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-karn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 
