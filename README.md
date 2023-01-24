@@ -4,9 +4,7 @@
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">𝐀𝐥𝐨𝐤 𝐊𝐚𝐫𝐧! </a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1><br />
 
-<h2> Full Stack Dev / Mobile App Dev 🌐👨‍💻!!! <br /><br />
-Interested in Modern Techs & Gadgets ...🐺🐺 <br /><br />
-Love Designing User Interfaces ... 🎨🎨 </h2>
+<h2>Full stack developer, Mobile app creator 📱, UI designer 👨‍🎨, and tech enthusiast 🤖.</h2> <br />
 
 - 🔭 I’m currently working on `My Designer Portfolio`, `Netflix Web Clone`, and `Instagram Mobile App Clone` ...
 - 🌱 I’m currently learning `MERN Stack`, `React-Native`, and `FireBase` ...
@@ -18,7 +16,7 @@ Love Designing User Interfaces ... 🎨🎨 </h2>
 
 <h2 align="left">𝔸𝕓𝕠𝕦𝕥 𝕄𝕖! </h2>
 
-Hello, I am `Alok Karn`. I am a Full Stack Developer `(MERN)` and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces.
+Hello, I am `Alok Karn`. I am a Full Stack Developer `(MERN)` and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces👨‍🎨. Love bringing ideas to life through code and design 💡. Always eager to learn and grow in the tech industry 🚀. Let's create something extraordinary together! 🛠️
 
 ## 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌:
 
