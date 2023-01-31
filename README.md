@@ -1,20 +1,20 @@
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
 
 
-<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">𝐀𝐥𝐨𝐤 𝐊𝐚𝐫𝐧! </a> <img
+<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">ᴀʟᴏᴋ ᴋᴀʀɴ  </a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1><br />
 
-<h2>Full stack developer, Mobile app creator 📱, UI designer 👨‍🎨, and tech enthusiast 🤖.</h2> <br />
+<h2>ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴍᴏʙɪʟᴇ ᴀᴘᴘ ᴄʀᴇᴀᴛᴏʀ 📱, ᴜɪ ᴅᴇꜱɪɢɴᴇʀ 👨‍🎨, ᴀɴᴅ ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 🤖.</h2> <br />
 
 - 🔭 I’m currently working on `My Designer Portfolio`, `Netflix Web Clone`, and `Instagram Mobile App Clone` ...
 - 🌱 I’m currently learning `MERN Stack`, `React-Native`, and `FireBase` ...
 - 💬 Ask me about `Technology, Gadgets and many more` ...
 - 📫 How to reach me: [Click here](https://www.facebook.com/alok.karn.399/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to draw and Play Guitar ...
+- ⚡ Fun fact: ᴛʜᴇ ᴛᴇʀᴍ "ʙᴜɢ" ᴡᴀꜱ ᴜꜱᴇᴅ ɪɴ ᴄᴏᴍᴘᴜᴛɪɴɢ ᴀꜰᴛᴇʀ ᴀ ʀᴇᴀʟ ʙᴜɢ ᴡᴀꜱ ꜰᴏᴜɴᴅ ꜱᴛᴜᴄᴋ ɪɴ ᴀ ʀᴇʟᴀʏ ᴏꜰ ᴀ ʜᴀʀᴠᴀʀᴅ ᴍᴀʀᴋ ɪɪ ᴄᴏᴍᴘᴜᴛᴇʀ ɪɴ 1947. ...
 
 
-<h2 align="left">𝔸𝕓𝕠𝕦𝕥 𝕄𝕖! ℹ️</h2>
+<h2 align="left">ᴀʙᴏᴜᴛ ᴍᴇ! ℹ️</h2>
 
 Hello, I am `Alok Karn`. I am a Full Stack Developer `(MERN)` and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces👨‍🎨. Love bringing ideas to life through code and design 💡. Always eager to learn and grow in the tech industry 🚀. Let's create something extraordinary together! 🛠️
 
