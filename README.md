@@ -2,9 +2,9 @@
 
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">ᴀʟᴏᴋ ᴋᴀʀɴ  </a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1><br />
-<p align='center'> <img src='/marginalia-programming.gif' width='600' height='400'/></p>
+<p align='center'> <img src='/marginalia-programming.gif' width='400' height='400'/></p>
 
-<h2>ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴍᴏʙɪʟᴇ ᴀᴘᴘ ᴄʀᴇᴀᴛᴏʀ 📱, ᴜɪ ᴅᴇꜱɪɢɴᴇʀ 👨‍🎨, ᴀɴᴅ ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 🤖.</h2> <br />
+# ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴍᴏʙɪʟᴇ ᴀᴘᴘ ᴄʀᴇᴀᴛᴏʀ 📱, ᴜɪ ᴅᴇꜱɪɢɴᴇʀ 👨‍🎨, ᴀɴᴅ ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 🤖.
 
 - 🔭 I’m currently working on `My Designer Portfolio`, `Netflix Web Clone`, and `Instagram Mobile App Clone` ...
 - 🌱 I’m currently learning `MERN Stack`, `React-Native`, and `FireBase` ...
