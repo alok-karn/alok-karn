@@ -16,7 +16,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <h2 align="left">ᴀʙᴏᴜᴛ ᴍᴇ! ℹ️</h2>
 
-Hello, I am `Alok Karn`. I am a Full Stack Developer `(MERN)` and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces👨‍🎨. Love bringing ideas to life through code and design 💡. Always eager to learn and grow in the tech industry 🚀. Let's create something extraordinary together! 🛠️
+Hello, I am `Alok Karn`. A highly motivated and detail-oriented B.Tech CSE student with a passion for web and mobile app development. I am a Full Stack Developer `(MERN)` and UI/UX designer with a passion for creating beautiful and functional user interfaces. I have a background in graphic design and I love to create elegant user interfaces👨‍🎨. Love bringing ideas to life through code and design 💡. Always eager to learn and grow in the tech industry 🚀. Let's create something extraordinary together! 🛠️
 
 ## 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌: 📈
 
