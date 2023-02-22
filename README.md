@@ -40,7 +40,7 @@ Hello, I am `Alok Karn`. A highly motivated and detail-oriented B.Tech CSE stude
 ![](https://github-profile-trophy.vercel.app/?username=alok-karn&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ## Coding Stats: 📈
-[![Alok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alok_karn)](https://github.com/anuraghazra/github-readme-stats)
+[![Alok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alok_karn)](https://wakatime.com/@alok_karn)
 <h2>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴀᴛ! 📥 </h2>
 <a href="https://www.facebook.com/alok.karn.399/" target="blank"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> <br />
 <a href="mailto:alokkyasth@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br />
