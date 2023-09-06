@@ -1,8 +1,8 @@
 
-
+![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">ᴀʟᴏᴋ ᴋᴀʀɴ  </a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1><br />
-<p align='center'> <img src='/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif' /></p>
+<!-- <img src='/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif' width="100%" /> -->
 
 # ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👨‍🎨, ᴀɴᴅ ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 🤖.
 
