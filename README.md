@@ -2,7 +2,7 @@
 
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://github.com/alok-karn" target="_blank">ᴀʟᴏᴋ ᴋᴀʀɴ  </a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1><br />
-<p align='center'> <img src='/pixeltrue-web-development.png' /></p>
+<p align='center'> <img src='/tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280.gif' /></p>
 
 # ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👨‍🎨, ᴀɴᴅ ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 🤖.
 
