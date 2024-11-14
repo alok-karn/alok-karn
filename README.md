@@ -25,7 +25,10 @@ Hello, I am `Alok Karn`. A highly motivated and detail-oriented B.Tech CSE stude
 
 ![](https://github-readme-stats.vercel.app/api?username=alok-karn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alok-karn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-karn&hide=jupyter%20notebook&layout=compact&theme=dark)
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-karn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 
 
